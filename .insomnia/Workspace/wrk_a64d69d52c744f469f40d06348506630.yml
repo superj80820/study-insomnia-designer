@@ -1,0 +1,9 @@
+_id: wrk_a64d69d52c744f469f40d06348506630
+created: 1588835962921
+description: Optional multiline or single-line description in
+  [CommonMark](http://commonmark.org/help/) or HTML.
+modified: 1588837565260
+name: Sample API 0.1.9
+parentId: null
+scope: spec
+type: Workspace
