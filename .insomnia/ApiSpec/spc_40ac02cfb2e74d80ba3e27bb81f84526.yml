@@ -15,7 +15,7 @@ contents: >-
   paths:
     /users:
       get:
-        summary: Returns a list of users.
+        summary: Rseturns a list of users.
         description: Optional extended description in CommonMark or HTML.
         requestBody:
           required: true
@@ -37,6 +37,6 @@ contents: >-
                     type: string
 created: 1588835962923
 fileName: test
-modified: 1588837565264
+modified: 1588837770820
 parentId: wrk_a64d69d52c744f469f40d06348506630
 type: ApiSpec
